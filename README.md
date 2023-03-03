@@ -15,3 +15,6 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-the-css-box-
 
 learn-css-flexbox-by-building-a-photo-gallery:
 https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery/step-21
+
+learn-typography-by-building-a-nutrition-label:
+https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label/step-67
