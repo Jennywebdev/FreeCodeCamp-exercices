@@ -12,3 +12,6 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-forms-b
 
 learn-the-css-box-model-by-building-a-rothko-painting:
 https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-the-css-box-model-by-building-a-rothko-painting/step-45
+
+learn-css-flexbox-by-building-a-photo-gallery:
+https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery/step-21
